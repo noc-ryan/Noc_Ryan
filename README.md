@@ -2,8 +2,8 @@
 # Olá! Eu sou o Ryan, aspirante a 👻
 
   <a href="https://github.com/rafaballerini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ApenasRyan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasRyan&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ApenasRyan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasRyan&layout=compact&langs_count=7&theme=github_dark"/>
 
 
 ## Tecnologias que uso no meu dia👾
