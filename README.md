@@ -21,4 +21,4 @@
 
 ### Email para contato:
     
-    -Cryan.code@gmail.com
+    Cryan.code@gmail.com
